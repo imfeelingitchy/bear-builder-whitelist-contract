@@ -10,3 +10,23 @@ Note: The web interface is for demonstration purposes only, and is by no means r
 Screenshots:
 
 ![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img1.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img2.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img3.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img4.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img5.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img6.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img7.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img8.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img9.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img10.png)
+
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img11.png)
