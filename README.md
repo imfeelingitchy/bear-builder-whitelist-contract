@@ -9,4 +9,4 @@ Note: The web interface is for demonstration purposes only, and is by no means r
 
 Screenshots:
 
-[!alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img1.png)
+![alt text](https://github.com/imfeelingitchy/bear-builder-whitelist-contract/blob/main/images/img1.png)
